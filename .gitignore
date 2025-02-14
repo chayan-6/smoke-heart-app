@@ -1,0 +1,13 @@
+# Ignore node_modules (if using Parcel, Vite, or Webpack)
+node_modules/
+
+# Ignore build files (if using Parcel or any bundler)
+dist/
+.cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files (if using any API keys)
+.env
